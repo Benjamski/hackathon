@@ -47,9 +47,11 @@ other social things they may need to do?
 
 Selfies. Everywhere I look, there are selfies. Selfies at the bar, selfies on
 the train, selfies in front of me at a concert because they want to show their
-friends how unenthused I am about their selfies. This needs an immediate
-solution. How can we make selfies unappealing to the youth? Some sort of satire
-site listing the dangers of vanity?! HOW DO I REACH THESE KEEDS?!
+friends how unenthused I am about their selfies. How can we make selfies
+unappealing to the youth? Negative and positive reinforcement sound like a
+great start. Leverage a facial recognition API to somehow negatively reward
+image uploads including faces and positively reward images that don't.
+Remember, these are mainly millenials we're targeting, so make it enticing!
 
 ## Deliverables
 
